@@ -56,16 +56,16 @@
 
 ### languages and Tools  
 <div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -74,7 +74,7 @@
 
 ### Designing Tools  
 <div align="center">  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Light.svg" alt="Blender" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="Photoshop" height="50" /></a>  
@@ -101,6 +101,7 @@
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manuja12pro" height="50" width="50" /></a>
 <a href="https://web.facebook.com/profile.php?id=61560860731234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manuja-eshan" height="50" width="50" /></a>
 <a href="https://www.instagram.com/manuja.eshan/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="manuja.eshan" height="50" width="50" /></a>
+<a href="#" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="manujaeshan02" height="50" width="50" /></a>  
 </p>
 
 
