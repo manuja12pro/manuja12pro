@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Manuja Eshan</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">Passionate Software Engineer | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=manuja12pro&icon=0&color=0)](https://visitcount.itsvg.in" alt="scar1109" /> </p>
 
 <table align="center">
@@ -98,12 +98,11 @@
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="manujaeshan" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/manuja-eshan-b0a851312/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="manuja-eshan" height="50" width="50" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="manuja12pro" height="50" width="50" /></a>
 <a href="https://web.facebook.com/profile.php?id=61560860731234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manuja-eshan" height="50" width="50" /></a>
 <a href="https://www.instagram.com/manuja.eshan/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="manuja.eshan" height="50" width="50" /></a>
 <a href="#" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="manujaeshan02" height="50" width="50" /></a>  
 </p>
 
 
-[manuja12pro]([https://github.com/jaydeep-yadav](https://github.com/manuja12pro))
+[manuja12pro](https://github.com/manuja12pro)
 Last Edited on - 09/17/2024
