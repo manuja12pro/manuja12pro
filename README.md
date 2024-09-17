@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Java Institute**
 
-- 💬 Ask me about **Web development | Desktop Application Development**
+- 💬 Ask me about **Web development | Desktop and Android Application Development**
 
 - 📫 How to reach me **manujaeshan02@gmail.com**
   
