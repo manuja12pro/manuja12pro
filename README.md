@@ -1,4 +1,4 @@
-<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+<p align="center"><picture align="center"><img align="center" src = "https://i.ibb.co/gjfkZQg/Reldiam-Ronar-removebg-preview-1.png" alt="Reldiam-Ronar-removebg-preview-1" width = 90px></picture></p>
 <h1 align="center">Hi 👋, I'm Manuja Eshan</h1>
 <h3 align="center">Passionate Software Engineer | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=manuja12pro&icon=0&color=0)](https://visitcount.itsvg.in" alt="scar1109" /> </p>
@@ -105,4 +105,4 @@
 
 
 [manuja12pro](https://github.com/manuja12pro)
-Last Edited on - 09/17/2024
+Last Edited on - 09/19/2024
